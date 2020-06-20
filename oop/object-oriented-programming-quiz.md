@@ -124,11 +124,11 @@ Association is whole/part relationship where one object is composed of one or mo
 #### Q21. Which type of inheritance must be used so that the resultant is hybrid?
 - multiple
 - any type of inheritance
-- multilevel  <<--- picked this one, 
-- hierarchical
+- multilevel   
+- hierarchical <--correct
 
 #### Q22. A language that does not support polymorphism but supports classes is considered what?
-- an object-based language <<--- picked this one
+- an object-based language <<--- correct
 - a class-based language
 - a procedure-oriented language
 - if classes are supported, polymorphism will be supported
